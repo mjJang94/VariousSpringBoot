@@ -2,6 +2,13 @@
 Spring Boot를 활용한 토이프로젝트
     
     
+### 개발환경
+- java 1.8
+- intellij
+- springboot
+- oracle cloud
+- ubuntu
+    
 ### 명령어 몇가지 정리
 1. jar 묶기 (인텔리제이 터미널에서)
 <pre>
