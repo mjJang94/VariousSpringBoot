@@ -1,5 +1,6 @@
-# VariousSpringBoot
+# 오라클 클라우드 활용을 위한 프로젝트
 Spring Boot를 활용한 토이프로젝트
+
     
     
 ### 개발환경
